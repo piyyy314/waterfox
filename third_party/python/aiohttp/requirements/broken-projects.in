@@ -1,1 +1,1 @@
-Pillow >= 10.4.0
+Pillow >= 10.4.0  # CVE-2023-4863 fix; previously constrained due to blockdiag/sphinxcontrib-blockdiag#26
